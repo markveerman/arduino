@@ -9,6 +9,7 @@ Some complex map
 {
   foo: "bar",
   mark: "Veerman",
+  logan: "Logan Hunt",
   baz: "blah"
 }
 ```
