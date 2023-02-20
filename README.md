@@ -1,8 +1,9 @@
 arduino
 =======
 
-Hello World!  Playing with sensors
+Hello World! I'm playing with sensors
 
+This is some test config
 ```
 Some complex map
 {
