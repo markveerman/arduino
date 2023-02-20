@@ -1,7 +1,7 @@
 arduino
 =======
 
-Hello World!
+Hello World!  Playing with sensors
 
 ```
 Some complex map
